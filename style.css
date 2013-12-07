@@ -1,0 +1,99 @@
+body{
+background-image: url('images/63906.jpg');
+background-repeat: no-repeat;
+background-position:top center;
+background-attachment:fixed;
+
+
+}
+label{
+font-family: 'times new roman', times, serif;
+
+
+}
+table{
+position: absolute;
+background-attachment: fixed;
+top: 50px;
+left: 627px;
+text-shadow: 5px 3px 6px rgba(140, 150, 150, 1);
+background-color: white;
+text-align: center;
+
+-webkit-box-shadow: 0px 0px 0px 5px rgba(255,255,255,0.11);
+-moz-box-shadow: 0px 0px 0px 5px rgba(255,255,255,0.11);
+box-shadow: 0px 0px 0px 5px rgba(255,255,255,0.11);
+border-radius: 5px;
+-moz-border-radius: 5px;
+-webkit-border-radius: 5px;
+width: 230px;
+
+background-color: #ffffff;
+}
+
+.inputtext{
+box-shadow: 10px;
+-webkit-box-shadow: 0px 0px 17px rgba(50, 52, 50, 0.75);
+-moz-box-shadow:    0px 0px 17px rgba(50, 52, 50, 0.75);
+box-shadow:         0px 0px 17px rgba(50, 52, 50, 0.75);
+border-radius: 5px;
+padding: 10px;
+
+}
+
+table tr td
+{
+padding:15px;
+
+
+
+}
+#registration-button{
+	padding-left:30px;
+	padding-right:30px;
+	padding-top: 8px;
+	padding-bottom: 8px;
+	display: block;
+	right: 15px;
+
+	background: rgba(176,213,97,1);
+	background: -moz-linear-gradient(top, rgba(176,213,97,1) 0%, rgba(132,186,52,1) 100%);
+	background: -webkit-gradient(left top, left bottom, color-stop(0%, rgba(176,213,97,1)), color-stop(100%, rgba(132,186,52,1)));
+	background: -webkit-linear-gradient(top, rgba(176,213,97,1) 0%, rgba(132,186,52,1) 100%);
+	background: -o-linear-gradient(top, rgba(176,213,97,1) 0%, rgba(132,186,52,1) 100%);
+	background: -ms-linear-gradient(top, rgba(176,213,97,1) 0%, rgba(132,186,52,1) 100%);
+	background: linear-gradient(to bottom, rgba(176,213,97,1) 0%, rgba(132,186,52,1) 100%);
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#b0d561', endColorstr='#84ba34', GradientType=0 );
+
+	-webkit-box-shadow: inset 0px 1px 0px 0px rgba(255,255,255,0.5), 0px 1px 0px 0px rgba(0,0,0,0.21);
+	-moz-box-shadow: inset 0px 1px 0px 0px rgba(255,255,255,0.5), 0px 1px 0px 0px rgba(0,0,0,0.21);
+	box-shadow: inset 0px 1px 0px 0px rgba(255,255,255,0.5), 0px 1px 0px 0px rgba(0,0,0,0.21);
+	border-radius: 5px;
+	color: #fff;
+	border-color: #598b06;
+}
+#registration-button:hover
+{
+	background: rgba(176,213,97,1);
+	background: -moz-linear-gradient(top, rgba(176,213,97,1) 0%, rgba(152,214,58,1) 100%);
+	background: -webkit-gradient(left top, left bottom, color-stop(0%, rgba(176,213,97,1)), color-stop(100%, rgba(152,214,58,1)));
+	background: -webkit-linear-gradient(top, rgba(176,213,97,1) 0%, rgba(152,214,58,1) 100%);
+	background: -o-linear-gradient(top, rgba(176,213,97,1) 0%, rgba(152,214,58,1) 100%);
+	background: -ms-linear-gradient(top, rgba(176,213,97,1) 0%, rgba(152,214,58,1) 100%);
+	background: linear-gradient(to bottom, rgba(176,213,97,1) 0%, rgba(152,214,58,1) 100%);
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#b0d561', endColorstr='#98d63a', GradientType=0 );
+}
+#date-field{
+	width: 140px;
+	height: 15px
+
+
+
+}
+#gender-field{
+	border: none;
+	width:162px;
+	height: 38px;
+
+
+}
